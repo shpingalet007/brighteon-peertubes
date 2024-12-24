@@ -1,5 +1,5 @@
 {
-  "lastChecked": 1726242313520,
+  "lastChecked": 1715004303935,
   "archive": {
     "bastyon_ar01": {
       "hooked": true,
@@ -467,6 +467,7 @@
     "bastyon_s31": {
       "hooked": true,
       "archived": [
+        "bastyon_xx02",
         "bastyon_ar01"
       ],
       "list": [
@@ -487,19 +488,21 @@
           "host": "peertube4new.pocketnet.app",
           "ip": "135.181.108.193",
           "upload": false,
-          "online": false
+          "online": true
         }
       ]
     },
     "bastyon_s33": {
       "hooked": true,
-      "archived": false,
+      "archived": [
+        "bastyon_ar01"
+      ],
       "list": [
         {
           "host": "peertube6new.pocketnet.app",
           "ip": "159.69.127.9",
           "upload": false,
-          "online": true
+          "online": false
         }
       ]
     },
@@ -526,7 +529,7 @@
           "host": "peertube33.pocketnet.app",
           "ip": "185.141.60.118",
           "upload": false,
-          "online": true
+          "online": false
         }
       ]
     },
@@ -579,7 +582,7 @@
           "host": "peertube51.pocketnet.app",
           "ip": "95.217.209.217",
           "upload": false,
-          "online": false
+          "online": true
         }
       ]
     },
@@ -593,7 +596,7 @@
           "host": "peertube41.pocketnet.app",
           "ip": "135.181.108.193",
           "upload": false,
-          "online": false
+          "online": true
         }
       ]
     },
@@ -607,7 +610,7 @@
           "host": "peertube70.pocketnet.app",
           "ip": "37.27.11.93",
           "upload": false,
-          "online": false
+          "online": true
         }
       ]
     },
@@ -621,7 +624,7 @@
           "host": "peertube80.pocketnet.app",
           "ip": "65.21.249.150",
           "upload": false,
-          "online": false
+          "online": true
         }
       ]
     },
@@ -635,7 +638,7 @@
           "host": "peertube90.pocketnet.app",
           "ip": "135.181.107.25",
           "upload": false,
-          "online": false
+          "online": true
         }
       ]
     },
@@ -649,7 +652,7 @@
           "host": "peertube100.pocketnet.app",
           "ip": "135.181.158.64",
           "upload": false,
-          "online": false
+          "online": true
         }
       ]
     },
@@ -679,14 +682,13 @@
     },
     "bastyon_s47": {
       "hooked": true,
-      "archived": [
-        "bastyon_ar01"
-      ],
+      "archived": false,
       "list": [
         {
           "host": "peertube351.pocketnet.app",
+          "ip": "185.148.146.11",
           "upload": false,
-          "online": false
+          "online": true
         }
       ]
     },
@@ -740,13 +742,15 @@
     },
     "bastyon_s52": {
       "hooked": true,
-      "archived": false,
+      "archived": [
+        "bastyon_ar01"
+      ],
       "list": [
         {
           "host": "peertube352.pocketnet.app",
           "ip": "185.148.146.11",
           "upload": false,
-          "online": true
+          "online": false
         }
       ]
     },
@@ -786,6 +790,54 @@
         }
       ]
     },
+    "bastyon_s56": {
+      "hooked": true,
+      "archived": false,
+      "list": [
+        {
+          "host": "peertube331.pocketnet.app",
+          "ip": "185.141.60.118",
+          "upload": false,
+          "online": true
+        }
+      ]
+    },
+    "bastyon_s57": {
+      "hooked": true,
+      "archived": false,
+      "list": [
+        {
+          "host": "peertube281.pocketnet.app",
+          "ip": "138.201.91.156",
+          "upload": false,
+          "online": true
+        }
+      ]
+    },
+    "bastyon_s58": {
+      "hooked": true,
+      "archived": false,
+      "list": [
+        {
+          "host": "peertube353.pocketnet.app",
+          "ip": "185.148.146.11",
+          "upload": false,
+          "online": true
+        }
+      ]
+    },
+    "bastyon_s59": {
+      "hooked": true,
+      "archived": false,
+      "list": [
+        {
+          "host": "peertube160.pocketnet.app",
+          "ip": "185.141.60.22",
+          "upload": false,
+          "online": true
+        }
+      ]
+    },
     "bastyon_ts01": {
       "hooked": true,
       "archived": false,
@@ -804,7 +856,7 @@
       "list": [
         {
           "host": "video01.brighteon.io",
-          "ip": "172.67.158.67",
+          "ip": "188.114.97.5",
           "upload": true,
           "online": true
         }
