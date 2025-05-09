@@ -806,13 +806,15 @@
     },
     "bastyon_s57": {
       "hooked": true,
-      "archived": false,
+      "archived": [
+        "bastyon_ar01"
+      ],
       "list": [
         {
           "host": "peertube281.pocketnet.app",
           "ip": "138.201.91.156",
           "upload": false,
-          "online": true
+          "online": false
         }
       ]
     },
@@ -844,13 +846,15 @@
     },
     "bastyon_s60": {
       "hooked": true,
-      "archived": false,
+      "archived": [
+        "bastyon_ar01"
+      ],
       "list": [
         {
           "host": "peertube354.pocketnet.app",
           "ip": "185.148.146.11",
           "upload": false,
-          "online": true
+          "online": false
         }
       ]
     },
