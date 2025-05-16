@@ -5,6 +5,11 @@
       "hooked": true,
       "host": "peertube.archive.pocketnet.app",
       "upload": false
+    },
+    "bastyon_ar02": {
+      "hooked": true,
+      "host": "peertube601.pocketnet.app",
+      "upload": false
     }
   },
   "swarms": {
@@ -758,13 +763,15 @@
     },
     "bastyon_s53": {
       "hooked": true,
-      "archived": false,
+      "archived": [
+        "bastyon_ar02"
+      ],
       "list": [
         {
           "host": "peertube600.pocketnet.app",
           "ip": "185.148.147.143",
           "upload": false,
-          "online": true
+          "online": false
         }
       ]
     },
@@ -865,6 +872,18 @@
         {
           "host": "peertube355.pocketnet.app",
           "ip": "185.148.146.11",
+          "upload": false,
+          "online": true
+        }
+      ]
+    },
+    "bastyon_s62": {
+      "hooked": true,
+      "archived": false,
+      "list": [
+        {
+          "host": "peertube601.pocketnet.app",
+          "ip": "185.148.147.143",
           "upload": false,
           "online": true
         }
