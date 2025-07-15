@@ -9,7 +9,8 @@
     "bastyon_ar02": {
       "hooked": true,
       "host": "peertube601.pocketnet.app",
-      "upload": false
+      "upload": false,
+      "archiveDouble": true
     }
   },
   "swarms": {
