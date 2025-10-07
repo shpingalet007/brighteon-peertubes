@@ -944,6 +944,18 @@
         }
       ]
     },
+    "bastyon_s66": {
+      "hooked": true,
+      "archived": false,
+      "list": [
+        {
+          "host": "peertube900.pocketnet.app",
+          "ip": "94.156.128.242",
+          "upload": false,
+          "online": true
+        }
+      ]
+    },
     "bastyon_ts01": {
       "hooked": true,
       "archived": false,
