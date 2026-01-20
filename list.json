@@ -974,13 +974,15 @@
     },
     "bastyon_s68": {
       "hooked": true,
-      "archived": false,
+      "archived": [
+        "bastyon_ar01"
+      ],
       "list": [
         {
           "host": "peertube358.pocketnet.app",
           "ip": "185.148.146.11",
           "upload": false,
-          "online": true
+          "online": false
         }
       ]
     },
