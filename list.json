@@ -724,13 +724,15 @@
     },
     "bastyon_s49": {
       "hooked": true,
-      "archived": false,
+      "archived": [
+        "bastyon_ar01"
+      ],
       "list": [
         {
           "host": "peertube371.pocketnet.app",
           "ip": "185.141.63.53",
           "upload": false,
-          "online": true
+          "online": false
         }
       ]
     },
