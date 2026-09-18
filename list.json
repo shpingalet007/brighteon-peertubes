@@ -1066,6 +1066,18 @@
         }
       ]
     },
+    "bastyon_s75": {
+      "hooked": true,
+      "archived": false,
+      "list": [
+        {
+          "host": "peertube3502.pocketnet.app",
+          "ip": "185.148.146.11",
+          "upload": false,
+          "online": true
+        }
+      ]
+    },
     "bastyon_ts01": {
       "hooked": true,
       "archived": false,
